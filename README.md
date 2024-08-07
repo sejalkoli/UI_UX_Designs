@@ -15,6 +15,6 @@ This repository contains the design files for a banking mobile app created in Fi
 ## Images in a Single Row
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebe46d35-3d58-4722-a9a1-93c7e78628fb" alt="Image 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/a33cafad-57e6-42fa-84eb-588b4b50cb80" alt="Image 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ebe46d35-3d58-4722-a9a1-93c7e78628fb" alt="Image 1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a33cafad-57e6-42fa-84eb-588b4b50cb80" alt="Image 2" width="500"/>
 </p>
