@@ -1,4 +1,4 @@
-#  1. Mobile Banking App Design
+# Mobile Banking App Design
 
 This repository contains the design files for a banking mobile app created in Figma.
 
