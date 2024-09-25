@@ -1,4 +1,12 @@
-# 1. Mobile Banking Application
+# Real Estate Web 
+
+![Hero](https://github.com/user-attachments/assets/b2f76d19-28e8-4373-b823-0415a96b90f3)
+
+
+### Figma Prototype
+You can view the full interactive prototype [here](https://www.figma.com/proto/WwUingQm603PGqnnmY1DFd/Real-Estate-Site?node-id=71-21&node-type=canvas&t=nAZDGigt0tEL2B6P-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).
+
+# Mobile Banking Application
 
 <!-- ![Mobile_Banking_App](https://github.com/sejalkoli/UI-Design/assets/116626091/27393b8b-49f7-48f4-831c-15edb1aa29be) -->
 ![Banking App](https://github.com/user-attachments/assets/837529a1-01dc-42ca-afd6-31446e38739f)
@@ -12,7 +20,7 @@ ___
 
 
 
-# 2. Adventure Website
+# Adventure Website
 <!-- ![Device - Macbook Air](https://github.com/user-attachments/assets/78bbfe1d-442c-415f-88b9-82c3c318604f) -->
 
 ![MacBook Air - 2](https://github.com/user-attachments/assets/ebe46d35-3d58-4722-a9a1-93c7e78628fb)
