@@ -6,6 +6,9 @@
 ### Figma Prototype
 You can view the full interactive prototype [here](https://www.figma.com/proto/WwUingQm603PGqnnmY1DFd/Real-Estate-Site?node-id=71-21&node-type=canvas&t=nAZDGigt0tEL2B6P-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).
 
+___
+
+
 # Mobile Banking Application
 
 <!-- ![Mobile_Banking_App](https://github.com/sejalkoli/UI-Design/assets/116626091/27393b8b-49f7-48f4-831c-15edb1aa29be) -->
